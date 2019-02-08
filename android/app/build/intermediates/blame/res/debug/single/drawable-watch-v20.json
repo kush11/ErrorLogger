@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

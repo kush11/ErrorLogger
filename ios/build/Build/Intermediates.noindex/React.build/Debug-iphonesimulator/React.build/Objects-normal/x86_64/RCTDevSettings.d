@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/pratian/Desktop/ZULApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/pratian/Desktop/ZULApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/pratian/Desktop/ZULApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

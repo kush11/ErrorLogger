@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+        "source": "/home/user/ZULApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/zul_launcher.png",
+        "source": "/home/user/ZULApp/android/app/src/main/res/mipmap-xxxhdpi/zul_launcher.png"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/user/ZULApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/51a960fcc9191311551066c1c65b1bc5/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/51a960fcc9191311551066c1c65b1bc5/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/a3f1f85334b4bdef83f07ed3b3d6b017/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/eef77b9f7decd51c5c251b741d6fdfda/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]

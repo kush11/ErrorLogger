@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/51a960fcc9191311551066c1c65b1bc5/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/user/ZULApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/51a960fcc9191311551066c1c65b1bc5/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]
